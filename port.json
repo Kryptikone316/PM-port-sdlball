@@ -1,0 +1,33 @@
+{
+  "version": 4,
+  "name": "sdlball.zip",
+  "items": [
+    "SDL-Ball.sh",
+    "sdlball"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "SDL-Ball",
+    "porter": [
+      "Kryptikone316"
+    ],
+    "desc": "A DX-Ball/Breakout/Arkanoid clone with pretty OpenGL graphics, particle effects, and a shop full of powerups between levels.",
+    "desc_md": null,
+    "inst": "Ready to run, no additional setup required.",
+    "inst_md": null,
+    "genres": [
+      "arcade"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": [],
+    "store": [],
+    "availability": "full",
+    "reqs": [],
+    "arch": [
+      "aarch64"
+    ],
+    "min_glibc": ""
+  }
+}

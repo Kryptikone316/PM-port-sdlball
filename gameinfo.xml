@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./SDL-Ball.sh</path>
+    <name>SDL-Ball</name>
+    <desc>A DX-Ball/Breakout/Arkanoid clone with pretty OpenGL graphics, particle effects, and a shop full of powerups between levels. Break every brick, keep the ball off the floor, and spend your coins wisely.</desc>
+    <releasedate>20081201T000000</releasedate>
+    <developer>Jimmy Christensen</developer>
+    <publisher>Open Source</publisher>
+    <genre>Arcade</genre>
+    <image>./sdlball/cover.png</image>
+  </game>
+</gameList>
